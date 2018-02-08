@@ -1,2 +1,2 @@
-# Second-project-adaptive-
+# Second-project-adaptive
 My second project
